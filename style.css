@@ -30,7 +30,7 @@ p {
 	text-align: center;
 	font-family: 'Georgia', serif;
 	color: white;
-	font-size: 20px;
+	font-size: 30px;
 	fallback: sans-serif;
 }
 
@@ -92,7 +92,7 @@ footer {
 	color: #1a1a1a;
 }
 
-img:not(.logo) {
+img {
 	opacity: 35%;
 	transition: opacity 0.8s
 }
