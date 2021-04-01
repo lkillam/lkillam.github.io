@@ -24,11 +24,13 @@ ol {
 
 body {
 	background-color: rgb(26, 26, 26);
+	margin:20px; 
+	padding: 10px; 
 }
 
 p {
 	text-align: center;
-	font-family: 'Georgia', serif;
+	font-family: 'Century Gothic', serif;
 	color: white;
 	font-size: 15px;
 	fallback: sans-serif;
@@ -37,7 +39,7 @@ p {
 a:link {
 	font-family: 'Century Gothic', sans-serif;
 	font-size: 40px;
-	color: white;
+	color: gray;
 	background-color: transparent;
 	fallback: sans-serif;
 }
@@ -45,7 +47,7 @@ a:link {
 a:visited {
 	font-family: 'Century Gothic', sans-serif;
 	font-size: 40px;
-	color: gray;
+	color: white;
 	background-color: transparent;
 	fallback: sans-serif;
 }
@@ -104,4 +106,8 @@ img:hover:not(.logo) {
 
 .logo {
 	width: 40%;
+}
+
+.para {
+	margin-left: 30px; 
 }
