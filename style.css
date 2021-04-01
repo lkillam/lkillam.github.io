@@ -92,7 +92,7 @@ footer {
 	color: #1a1a1a;
 }
 
-img {
+img:not(.logo) {
 	opacity: 35%;
 	transition: opacity 0.8s
 }
