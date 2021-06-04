@@ -105,8 +105,21 @@ img:hover:not(.logo) {
 }
 
 .logo {
-	width: 40%;
+	width: 110%;
 }
+
+.LogoButton { position: absolute; top: 65px; overflow: visible }
+.LogoButton:hover path { fill: pink; }
+
+.LogoButton2 { position: absolute; top: 65px; overflow: visible }
+.LogoButton2:hover path { fill: orange; }
+
+.LogoButton3 { position: absolute; top: 65px; overflow: visible }
+.LogoButton3:hover path { fill: turquoise; }
+
+.LogoButton4 { position: absolute; top: 65px; overflow: visible }
+.LogoButton4:hover path { fill: purple; }
+
 
 .pad {
 	padding-left: 15px; 
