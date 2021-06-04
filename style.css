@@ -105,10 +105,10 @@ img:hover:not(.logo) {
 }
 
 .logo {
-	width: 110%;
+	width: 100%;
 }
 
-.LogoButton { position: absolute; top: 65px; overflow: visible }
+.LogoButton { position: absolute; top: 14px; overflow: visible }
 .LogoButton:hover path { fill: pink; }
 
 .LogoButton2 { position: absolute; top: 65px; overflow: visible }
