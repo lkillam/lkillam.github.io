@@ -108,20 +108,20 @@ img:hover:not(.logo) {
 	width: 100%;
 }
 
-.LogoButton { position: absolute; top: 14px; overflow: visible }
-.LogoButton:hover path { fill: pink; }
+<!-- .LogoButton { position: absolute; top: 14px; overflow: visible }
+.LogoButton:hover path { fill:#E41376; transition: 0.5s; } -->
 
 .LogoButton2 { position: absolute; top: 65px; overflow: visible }
-.LogoButton2:hover path { fill: orange; }
+.LogoButton2:hover path { fill:#FFA439; transition: 0.5s; }
 
 .LogoButton3 { position: absolute; top: 65px; overflow: visible }
-.LogoButton3:hover path { fill: turquoise; }
+.LogoButton3:hover path { fill:#9CFF00; transition: 0.5s; }
 
 .LogoButton4 { position: absolute; top: 65px; overflow: visible }
-.LogoButton4:hover path { fill: purple; }
+.LogoButton4:hover path { fill:#BF00FF; transition: 0.5s; }
 
 .LogoButton5 { position: absolute; top: 12px; overflow: visible }
-.LogoButton5:hover path { fill: blue; }
+.LogoButton5:hover path { fill:#01C8EE; transition: 0.5s; }
 
 .pad {
 	padding-left: 15px; 
