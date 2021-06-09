@@ -108,9 +108,6 @@ img:hover:not(.logo) {
 	width: 100%;
 }
 
-<!-- .LogoButton { position: absolute; top: 14px; overflow: visible }
-.LogoButton:hover path { fill:#E41376; transition: 0.5s; } -->
-
 .LogoButton2 { position: absolute; top: 65px; overflow: visible }
 .LogoButton2:hover path { fill:#FFA439; transition: 0.5s; }
 
